@@ -9,9 +9,7 @@ This project demonstrates real-time object detection using the YOLO (You Only Lo
   ## Installation
 To get started with the project, clone the repository and install the required dependencies.
 
-```bash
-pip install -r requirements.txt
-
-## Acknowledgements
+Acknowledgements
 The YOLO algorithm was developed by Joseph Redmon and Ali Farhadi.
 This project is inspired by various open-source object detection projects and tutorials.
+
